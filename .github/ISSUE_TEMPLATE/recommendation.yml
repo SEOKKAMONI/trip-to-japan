@@ -1,0 +1,27 @@
+name: "여행지 추천"
+description: "오사카를 가보셨다면 여행지를 추천해 주세요!"
+labels: "🐞 Bug"
+body:
+  - type: textarea
+    attributes:
+      label: 장소
+      description: 장소 이름을 적어주세요.
+      placeholder: 꼼꼼하게 적을수록 좋습니다!
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 관련 링크
+      description: 관련 링크가 있다면 적어주세요.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 사진
+      description: 사진이 있다면 넣어주세요.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 덧붙일 말
+      description: 더 하고 싶은 말이 있다면 작성해 주세요.
