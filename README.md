@@ -13,3 +13,10 @@ PLAN.md에
 ```
 
 다음과 같이 링크와 여행지를 적고 양식에 맞게 PR을 작성 후 풀리퀘를 날려주세요!
+
+### 여행자
+
+|                                         유사 공기업                                          |                                         유사 백엔드                                          |                                         유사 프론트엔드                                          |                                         
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | 
+| <img src="https://avatars.githubusercontent.com/u/102217688?v=4" width=400px alt="강민제"/> | <img src="https://avatars.githubusercontent.com/u/102217780?v=4" width=400px alt="강승훈"/> | <img src="https://avatars.githubusercontent.com/u/102217654?v=4" width=400px alt="김석진"/> |
+|                       [강민제](https://github.com/hsem4717)                        |                            [강승훈](https://github.com/SeunghoonSeunghoon)                            |                            [김석진](https://github.com/SEOKKAMONI)                            |
