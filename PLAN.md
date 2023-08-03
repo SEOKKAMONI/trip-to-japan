@@ -1,10 +1,22 @@
-## 오사카 놀러 갈 곳 리스트
-
-## 예시
-
-- [관련 링크](https://map.naver.com/v5/entry/place/1555746683?lng=129.0608207602605&lat=35.15733112400857&placePath=%2Fhome&entry=plt) 오사카의 한 스시 집
+# 오사카 놀러 갈 곳 리스트
 
 
-## 여행 계획
+## 8/5(토)
 
-- [관련 링크](https://kr.trip.com/hotels/osaka-hotel-detail-4064224/sotetsu-grand-fresa-osaka-namba/?cityId=219&checkIn=2023-07-31&checkOut=2023-08-01&adult=2&children=0&subStamp=3001547&crn=1&ages=&travelpurpose=0&curr=krw&hasAidInUrl=true&link=title&hoteluniquekey=&subChannel=&masterhotelid_tracelogid=9636f66adf724550b7687fd3017ec197) 소테츠 그랜드 프레사 오사카 난바 호텔
+오전 8:30 에 김해공항 국제선 2층 2번 게이트 앞에서 만나기
+
+오전 11:30 ~ 오후 1:00 오사카까지 비행
+오사카 간사이 공항 도착 후 난카이 공항 급행 지하철 타고 난바역 도착(예상 도착 시간 오후 2:00), 현지식 점심 먹기
+- [관련 링크](https://kr.trip.com/hotels/osaka-hotel-detail-4064224/sotetsu-grand-fresa-osaka-namba/?cityId=219&checkIn=2023-07-31&checkOut=2023-08-01&adult=2&children=0&subStamp=3001547&crn=1&ages=&travelpurpose=0&curr=krw&hasAidInUrl=true&link=title&hoteluniquekey=&subChannel=&masterhotelid_tracelogid=9636f66adf724550b7687fd3017ec197) 소테츠 그랜드 프레사 오사카 난바 호텔 체크인 후 쉬다가 해 떨어지면 도톤보리 가서 먹고 놀다가 하루 마무리
+
+## 8/6(일)
+오전 8:00~9:00 사이에 일어나서 전날 사 놓은 편의점 음식으로 아침 때우고 도톤보리 덴덴타운으로 출발 
+가서 점심까지 먹고 2:00 개더워질 때 카페가 있으면 카페를 가고 없으면 호텔 가서 쉬다가 5:00 쯤 나와서 산책 좀 돌다가 저녁 사먹기
+
+## 8/7(월)
+오전 8:00 에 일어나서 간단하게 아침 먹고 난바역 ~ 오사카코 역까지 지하철 타고 가서 해유관(https://www.kaiyukan.com)수족관 관람
+밥먹고 오사카코 지하철역 ~ 벤텐초 지하철역까지 주오선 타고 이동 후 소라니와 온천에서 온천욕 후 도톤보리로 이동 후 저녁 먹고 하루 마무리
+
+## 8/8(화)
+7시 기상해서 밥 먹고 최소 8시에 나가서 난바 - 간사이공항 지하철 타고 간사이공항 가서 오전 11:00 비행기 타고 귀국
+밥먹고헤어
